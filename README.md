@@ -28,6 +28,12 @@ Software Developer II with 4+ years of experience, with proven development and e
 
 ## Professional Experience
 
+### Software Developer Engineer II (Niro) 
+*April 2023 - Present*
+- Part of Backend development team.
+- Microservices development using Spring Boot, Java, Docker, Postgresql.
+- Working on Niro Backend, various lender integration, security and scalability of services.
+
 ### Senior Software Engineer (Loctell Solutions) 
 *August 2022 - April 2023*
 - Leading Backend team.
